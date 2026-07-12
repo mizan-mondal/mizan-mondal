@@ -15,7 +15,7 @@ An Engineer with a Dream.
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://www.ucreatestudio.is.ed.ac.uk/sites/default/files/2025-08/Fusion%20360%20logo_0.jpg)" alt="Autodesk" />
+  <img src="https://www.ucreatestudio.is.ed.ac.uk/sites/default/files/2025-08/Fusion%20360%20logo_0.jpg" alt="Autodesk" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
