@@ -12,6 +12,11 @@
 
 An Engineer with a Dream.
 
+<img
+  src="https://komarev.com/ghpvc/?username=DevNiru2704&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=00D4FF"
+  alt="Profile Views"
+/>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
